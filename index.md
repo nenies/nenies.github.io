@@ -7,8 +7,9 @@ En mil nau cent tridek ses Alan Turing verkis la artikolo nomiĝi "Pri la komput
 
 Fakte ne gravas kio Turing pensis, se la maŝino venkas aŭ ne venkas la Turing test. Kio gravas estas ĝis kiam la homaro faros tio.
 
-Ni ne kredas je ŝtata teorio
-----------------------------
-Ni loĝas en la ŝtato. Fakte, ŝtato loĝas en la ni. Leviatano estas konstituita de nia atoma suvereneco, sed ni estas faritaj de leviatano.
 
-Sed homoj ne estas lupo por homoj
+Kaosreto
+--------
+=kaosreto= estas la reto de retojn de lambdamaŝinoj. Ĝi estas objekto, sed ĝi ankaŭ estas abstrakta reto: ideoj interagas inter si.
+
+
