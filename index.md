@@ -10,6 +10,6 @@ Fakte ne gravas kio Turing pensis, se la maŝino venkas aŭ ne venkas la Turing 
 
 Kaosreto
 --------
-=kaosreto= estas la reto de retojn de lambdamaŝinoj. Ĝi estas objekto, sed ĝi ankaŭ estas abstrakta reto: ideoj interagas inter si.
+`kaosreto` estas la reto de retojn de lambdamaŝinoj. Ĝi estas objekto, sed ĝi ankaŭ estas abstrakta reto: ideoj interagas inter si.
 
 
